@@ -1,5 +1,13 @@
 # Reverse Image Search && Recommendation System
 
+## Working of Model
+
+- step 1 : Extract feature from Image
+- Step 2 : Analyze and Classify the categorey of Image
+- Step 3 : Recommend the Image from dataset having the closest matching features
+
+## Important Outline
+
 - Deep Learning —> CNN
 - Transfer Learning (Technique to use pre-trained model) —> we are going to use the ResNet model 
 - ResNET is model trained on ImageNET -> It will work as a Feature Extractor for model
